@@ -39,15 +39,3 @@ This application uses the Stable Diffusion XL (SDXL) model developed by Stabilit
 
 ## License
 This project is licensed under the MIT License.
-
----
-license: mit
-title: Image Generator SDXL
-emoji: 🐨
-colorFrom: gray
-colorTo: pink
-sdk: gradio
-sdk_version: 4.31.3
-app_file: app.py
-pinned: false
----
