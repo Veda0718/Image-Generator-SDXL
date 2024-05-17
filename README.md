@@ -38,17 +38,16 @@ Open the provided URL in your web browser to access the application.
 This application uses the Stable Diffusion XL (SDXL) model developed by Stability AI, with state-of-the-art text-to-image generation capabilities. Please note that the model might produce outputs that reinforce societal biases or contain sensitive content, as detailed in the model card.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.<br>
 
 ---
-title: Text To Image Generator
-emoji: 🖼
-colorFrom: purple
-colorTo: red
-sdk: gradio
-sdk_version: 4.26.0
-app_file: app.py
-pinned: false
----
+license: mit<br>
+title: Image Generator SDXL<br>
+sdk: gradio<br>
+emoji: 🐨<br>
+colorFrom: gray<br>
+colorTo: pink<br>
+sdk: gradio<br>
+app_file: app.py<br>
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
