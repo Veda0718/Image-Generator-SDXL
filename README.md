@@ -3,7 +3,7 @@
 The Text-to-Image Generation Application harnesses the cutting-edge Stable Diffusion XL (SDXL) model developed by StabilityAI. This model represents one of the most advanced technologies available for generating highly detailed and visually stunning images based on textual descriptions.
 
 ## Live Demo
-You can explore the live demo of Metamorph hosted on Hugging Face Spaces: https://huggingface.co/spaces/Veda0718/Text_to_Image_Generator
+You can explore the live demo of Metamorph hosted on [Hugging Face Spaces](https://huggingface.co/spaces/Veda0718/Text_to_Image_Generator)
 
 ## Features
  - **Intuitive Interface:** Craft detailed prompts and explore various image styles with ease.
@@ -39,3 +39,16 @@ This application uses the Stable Diffusion XL (SDXL) model developed by Stabilit
 
 ## License
 This project is licensed under the MIT License.
+
+---
+title: Text To Image Generator
+emoji: 🖼
+colorFrom: purple
+colorTo: red
+sdk: gradio
+sdk_version: 4.26.0
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
